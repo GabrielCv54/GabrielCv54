@@ -14,3 +14,6 @@ Minhas Stacks:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="80px" width="80px"/>
              
           
+**Meu contato**
+<a href="www.linkedin.com/in/gabriel-carvalho-vieira-7aa557314" />
+
