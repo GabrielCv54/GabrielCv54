@@ -15,4 +15,4 @@ Minhas Stacks:
              
           
 ## Meu contato
-[Meu Linkedin]((https://www.linkedin.com/in/gabriel-carvalho-vieira-7aa557314]
+[Meu Linkedin]((https://www.linkedin.com/in/gabriel-carvalho-vieira-7aa557314)
