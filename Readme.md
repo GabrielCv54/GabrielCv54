@@ -1,5 +1,7 @@
 # Mnha descrição
- 🖥📘 **Sou Estudante de Desenvolvimento de Sistemas pela Impacta, com profundo interesse de aprender coisas novas e principalmente tecnologia, tanto no front-end quanto no back-end. Cada vez mais venho procurando me especializar nessa área, seja na teoria com livros,lendo documentação, consumindo informações, como também na prática, com a construção de projetos que permitem fixar a minha base em síntaxe e em lógica de programação.**
+ 🖥📘 **Sou Estudante de Desenvolvimento de Sistemas pela Impacta, com profundo interesse de aprender coisas novas e principalmente tecnologia, tanto no front-end quanto no back-end. Cada vez mais venho procurando me especializar nessa área, seja na teoria com livros,lendo documentação, consumindo informações, como também na prática, com a construção de projetos que permitem fixar a minha base em síntaxe e em lógica de programação.
+ Seja em equipe ou sozinho, gosto quando consigo resolver problemas, me mostrando prestativo e eficiente nas tarefas a qual sou proposto a fazer
+ **
 
 Minhas Stacks:
 <br />
