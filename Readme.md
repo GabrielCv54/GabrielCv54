@@ -15,5 +15,5 @@ Minhas Stacks:
              
           
 **Meu contato**
-<a href="www.linkedin.com/in/gabriel-carvalho-vieira-7aa557314" />
+<a href="https://www.linkedin.com/in/gabriel-carvalho-vieira-7aa557314" />
 
