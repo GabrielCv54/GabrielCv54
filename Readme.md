@@ -15,7 +15,8 @@ Minhas Stacks:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="70px" width="80px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="70px" width="80px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="70px" width="80px"/>
-                           
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="70px" width="80px"/>
+                                   
           
 ## Meu contato
 [Meu Linkedin](https://www.linkedin.com/in/gabriel-carvalho-vieira-7aa557314)
